@@ -1540,7 +1540,7 @@
                     @else
                     <a
                         href="{{ route('login') }}"
-                        class="inline-block px-5 py-1.5 bg-ebonyclay text-white hover:text-ebonyclay border border-transparent hover:bg-lavendergray rounded-sm text-sm leading-normal">
+                        class="inline-block px-5 py-1.5 bg-ebonyclay text-white hover:text-ebonyclay border border-2 border-transparent hover:bg-lavendergray rounded-sm text-sm leading-normal">
                         Log in
                     </a>
 
